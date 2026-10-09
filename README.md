@@ -2,9 +2,13 @@
 
 **Your situation first. The theory that fits.**
 
-Work through a difficult management situation with an AI thinking partner: understand what is getting in the way, explore approaches that fit your context, and turn the discussion into a practical next step.
+An AI thinking partner to help managers understand difficult situations, choose relevant approaches and turn insight into action.
 
-Use it when a project keeps stalling, delegation is not working, priorities compete, a conversation feels difficult—or you want to develop a leadership skill through your current work.
+- **Look beyond skills.** Explore causes in knowledge, motivation, expectations, resources and working conditions. A problem in the system should not become a judgment about the person.
+- **Find the theory that fits.** The library is a starting point. With web access, the partner can search beyond it for relevant theories and approaches, checking sources and their limits.
+- **Keep people at the centre.** Humanistic principles guide the work: dignity, autonomy and care, alongside honest feedback, clear expectations and difficult decisions. AI supports your thinking; you stay in charge.
+
+Leave with a practical next step: a decision, a conversation plan, a clearer agreement or a workplace experiment.
 
 <img src="assets/cards/01.png" alt="AI Leadership Partner. Your situation first. The theory that fits." width="420">
 
