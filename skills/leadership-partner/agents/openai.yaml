@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leadership Partner — RU / EN"
+  short_description: "Разбор управленческих ситуаций · Russian / English"
+  default_prompt: "Use $leadership-partner to work through my management situation in the language I choose or use in my request."
