@@ -1,0 +1,1444 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Portable provenance for the bounded source claims and search candidates. This is an open starting catalog, not a whitelist. Freshly verify claims that exceed recorded access or depend on current evidence.",
+  "review_origin": "Russian source review on 2026-10-06, adapted into English; these records do not claim a new full-text audit.",
+  "limits": [
+    "Selected passages, excerpts or abstracts only as stated. No full-book reading implied.",
+    "No source establishes effectiveness of the complete AI partner or its PROD exercises.",
+    "Repeated works across routes are not independent corroboration.",
+    "Candidate status permits investigation and case-specific use after verification; it is not a permanent exclusion."
+  ],
+  "route_sources": {
+    "C01-SIMON": [
+      "C01-SIMON"
+    ],
+    "C01-KK": [
+      "C01-KK"
+    ],
+    "C01-ACCOUNT": [
+      "C01-ACCOUNT"
+    ],
+    "C02-SDT": [
+      "C02-SDT"
+    ],
+    "C02-LAS": [
+      "C02-LAS"
+    ],
+    "C02-SLII": [
+      "C02-SLII"
+    ],
+    "C03-GOAL": [
+      "C03-GOAL"
+    ],
+    "C03-ROLE": [
+      "C03-ROLE"
+    ],
+    "C03-MONITOR": [
+      "C03-MONITOR"
+    ],
+    "C04-FIT98": [
+      "C04-FIT98"
+    ],
+    "C04-LISTEN": [
+      "C04-LISTEN"
+    ],
+    "C04-360": [
+      "C04-360"
+    ],
+    "C05-YES": [
+      "C05-YES"
+    ],
+    "C05-PT": [
+      "C05-PT"
+    ],
+    "C06-CONFLICT": [
+      "C06-CONFLICT"
+    ],
+    "C06-PEACE": [
+      "C06-PEACE"
+    ],
+    "C07-TRANSFER": [
+      "C07-TRANSFER"
+    ],
+    "C07-TRAIN": [
+      "C07-TRAIN"
+    ],
+    "C08-RUM": [
+      "C08-RUM"
+    ],
+    "C08-POR": [
+      "C08-POR"
+    ],
+    "C08-MIN": [
+      "C08-MIN"
+    ],
+    "C08-SCE": [
+      "C08-SCE"
+    ],
+    "C09-SIM": [
+      "C09-SIM"
+    ],
+    "C09-LER": [
+      "C09-LER"
+    ],
+    "C09-AEO": [
+      "C09-AEO"
+    ],
+    "C10-GOA": [
+      "C10-GOA"
+    ],
+    "C10-HAR": [
+      "C10-HAR"
+    ],
+    "C10-BLO": [
+      "C10-BLO"
+    ],
+    "C11-WEI": [
+      "C11-WEI"
+    ],
+    "C11-COL": [
+      "C11-COL"
+    ],
+    "C11-MAY": [
+      "C11-MAY"
+    ],
+    "C12-FRE": [
+      "C12-FRE"
+    ],
+    "C12-MIT": [
+      "C12-MIT"
+    ],
+    "C12-BOU": [
+      "C12-BOU"
+    ],
+    "C13-KOT": [
+      "C13-KOT",
+      "C13-APP"
+    ],
+    "C13-ORE": [
+      "C13-ORE"
+    ],
+    "C13-STO": [
+      "C13-STO"
+    ],
+    "C14-A": [
+      "S14-1",
+      "S14-2"
+    ],
+    "C14-B": [
+      "S17-1"
+    ],
+    "C15-A": [
+      "S15-1"
+    ],
+    "C15-B": [
+      "S15-2",
+      "S15-3"
+    ],
+    "C16-A": [
+      "S16-1",
+      "S16-2"
+    ],
+    "C16-B": [
+      "S16-3"
+    ],
+    "C16-C": [
+      "S16-4"
+    ],
+    "C16-D": [
+      "S17-1"
+    ],
+    "C17-A": [
+      "S17-1"
+    ],
+    "C17-B": [
+      "S17-2"
+    ],
+    "C18-A": [
+      "S18-1"
+    ],
+    "C18-B": [
+      "S18-2"
+    ],
+    "C18-C": [
+      "S18-3"
+    ],
+    "C19-A": [
+      "S19-1",
+      "S19-4",
+      "S19-5"
+    ],
+    "C19-B": [
+      "S19-2",
+      "S19-4",
+      "S19-5"
+    ],
+    "C19-C": [
+      "S19-3"
+    ]
+  },
+  "records": [
+    {
+      "id": "C01-SIMON",
+      "authors": "Herbert A. Simon",
+      "year": 1955,
+      "title": "A Behavioral Model of Rational Choice",
+      "url": "https://cooperative-individualism.org/simon-herbert_a-behavioral-model-of-rational-choice-1955-feb.pdf",
+      "type": "theory",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Introduction; sections 2.2–2.3, pp.99–101 and 107–108; selected aspiration-level dynamics passages",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C01-KK",
+      "authors": "Daniel Kahneman; Gary Klein",
+      "year": 2009,
+      "title": "Conditions for Intuitive Expertise: A Failure to Disagree",
+      "url": "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf",
+      "type": "theory_and_author_integrative_review",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "pp.515–517, 520–521, 524: RPD, validity and learning conditions",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C01-ACCOUNT",
+      "authors": "Ira Sharon; Anat Drach-Zahavy; Einav Srulovici",
+      "year": 2022,
+      "title": "The Effect of Outcome vs. Process Accountability-Focus on Performance: A Meta-Analysis",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.795117/full",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Characteristics, Results, Limitations, Tables 1–2",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C02-SDT",
+      "authors": "Edward L. Deci; Anja H. Olafsen; Richard M. Ryan",
+      "year": 2017,
+      "title": "Self-Determination Theory in Work Organizations: The State of a Science",
+      "url": "https://selfdeterminationtheory.org/wp-content/uploads/2017/03/2017_DeciOlafsenRyan_annurev-orgpsych.pdf",
+      "type": "theory_and_author_review",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "SDT Model and Research on the SDT Model, pp.23–29; conclusion",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C02-LAS",
+      "authors": "Gavin R. Slemp; Margaret L. Kern; Kent J. Patrick; Richard M. Ryan",
+      "year": 2018,
+      "title": "Leader Autonomy Support in the Workplace: A Meta-analytic Review",
+      "url": "https://link.springer.com/article/10.1007/s11031-018-9698-y",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Methods, Results, Limitations, especially the cross-sectional design limitation",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C02-SLII",
+      "authors": "Ken Blanchard",
+      "year": 2019,
+      "title": "A Situational Approach to Effective Leadership",
+      "url": "https://www.blanchard.com/blog/a-situational-approach-to-effective-leadership",
+      "type": "commercial_practical_model",
+      "access": "primary_provider_web_article_main_text_read",
+      "read_sections": "Main provider article in full: Four Leadership Styles; Three Skills",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C03-GOAL",
+      "authors": "Edwin A. Locke; Gary P. Latham",
+      "year": 2006,
+      "title": "New Directions in Goal-Setting Theory",
+      "url": "https://rt3nc.org/objects/modules/minimods/smartgoals/old/Locke%20et%20al%20New%20dir%20goal%20setting%2006-article.pdf",
+      "type": "theory_and_author_review",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "pp.265–266: core conditions and Learning Goals",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C03-ROLE",
+      "authors": "Travis C. Tubre; Judith M. Collins",
+      "year": 2000,
+      "title": "Jackson and Schuler (1985) Revisited: A Meta-Analysis of the Relationships Between Role Ambiguity, Role Conflict, and Job Performance",
+      "url": "https://iranarze.ir/storage/uploads/2017/04/6396-English-IranArze.pdf",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Results and Discussion, pp.163–165; reproduction of original journal article",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C03-MONITOR",
+      "authors": "Benjamin Harkin; Thomas L. Webb; Betty P. I. Chang; Andrew Prestwich; Mark Conner; Ian Kellar; Yael Benn; Paschal Sheeran",
+      "year": 2016,
+      "title": "Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence",
+      "url": "https://eprints.whiterose.ac.uk/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf",
+      "type": "experimental_meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Accepted manuscript: Methodological Factors and Limitations, pp.38–41; overall result",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C04-FIT98",
+      "authors": "Avraham N. Kluger; Angelo DeNisi",
+      "year": 1998,
+      "title": "Feedback Interventions: Toward the Understanding of a Double-Edged Sword",
+      "url": "https://itgs.ict.usc.edu/papers/Kluger%26DeNisiFeedbackCDPS98.pdf",
+      "type": "author_theory_account",
+      "access": "indexed_original_fragments_not_continuous_full_text",
+      "read_sections": "Indexed original fragments pp.69–71; PDF extraction incomplete",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C04-LISTEN",
+      "authors": "A. N. Kluger; M. Lehmann; H. Aguinis; G. Itzchakov; G. Gordoni; J. Zyberaj; C. Bakaç",
+      "year": 2024,
+      "title": "A Meta-analytic Systematic Review and Theory of the Effects of Perceived Listening on Work Outcomes",
+      "url": "https://link.springer.com/article/10.1007/s10869-023-09897-5",
+      "type": "meta_analysis_and_theory",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Definition of perceived listening; Limitations; Conclusions",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C04-360",
+      "authors": "James W. Smither; Manuel London; Richard R. Reilly",
+      "year": 2005,
+      "title": "Does Performance Improve Following Multisource Feedback? A Theoretical Model, Meta-Analysis, and Review of Empirical Findings",
+      "url": "https://www.bauer.uh.edu/werner/Kennesaw2010readings/SmitherLondon2005.pdf",
+      "type": "meta_analysis_and_theory",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "pp.33–37 inclusion and study descriptions; p.42 control-group limitations",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C05-YES",
+      "authors": "Roger Fisher; William Ury; Bruce Patton",
+      "year": 2011,
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780143118756",
+      "type": "practical_framework",
+      "access": "official_publisher_chapter_excerpt",
+      "read_sections": "Official publisher excerpt, Chapter 4: Invent Options for Mutual Gain; not the whole book",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C05-PT",
+      "authors": "Adam D. Galinsky; William W. Maddux; Debra Gilin; Judith B. White",
+      "year": 2008,
+      "title": "Why It Pays to Get Inside the Head of Your Opponent: The Differential Effects of Perspective Taking and Empathy in Negotiations",
+      "url": "https://willmaddux.web.unc.edu/wp-content/uploads/sites/15846/2019/01/Psych-Science-PT-Negotiations.pdf",
+      "type": "experiments",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Studies 1–3 methods and results, pp.379–383",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C06-CONFLICT",
+      "authors": "Zhenyu Yuan; Jingfeng Yin; Jiaqing Sun",
+      "year": 2026,
+      "title": "The Paradox of Team Conflict Revisited: An Updated Meta-Analysis of the Team Conflict–Team Performance Relationships",
+      "url": "https://eprints.lse.ac.uk/129181/1/The_paradox_of_team_conflict_revisited.pdf",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Accepted manuscript: Discussion pp.31–38; Table 1",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C06-PEACE",
+      "authors": "Xiaolei Zhang; Katalien Bollen; Rong Pei; Martin C. Euwema",
+      "year": 2018,
+      "title": "Peacemaking at the Workplace: A Systematic Review",
+      "url": "https://ncmr.lps.library.cmu.edu/article/314/galley/317/view/",
+      "type": "systematic_review",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "pp.204–209 and 215–218: definition, selection, Table 2 and limitations",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C07-TRANSFER",
+      "authors": "Brian D. Blume; J. Kevin Ford; Timothy T. Baldwin; Jason L. Huang",
+      "year": 2010,
+      "title": "Transfer of Training: A Meta-Analytic Review",
+      "url": "https://www.researchgate.net/publication/235975809_Transfer_of_Training_A_Meta-Analytic_Review",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Author text: Transfer Research, Results, Discussion, pp.1067–1069 and 1089–1092; maintenance limitation",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C07-TRAIN",
+      "authors": "Christina N. Lacerenza; Denise L. Reyes; Shannon L. Marlow; Dana L. Joseph; Eduardo Salas",
+      "year": 2017,
+      "title": "Leadership Training Design, Delivery, and Implementation: A Meta-Analysis",
+      "url": "https://doerr.rice.edu/sites/g/files/bxs3016/files/2020-03/Leadership%20Training%20Design,%20Delivery,%20and%20Implementation.pdf",
+      "type": "meta_analysis",
+      "access": "original_text_available_selected_sections_read",
+      "read_sections": "Results, Discussion, Limitations, Table 8, pp.1698–1704",
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C08-RUM",
+      "authors": "Richard Rumelt",
+      "year": 2011,
+      "title": "The perils of bad strategy",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy",
+      "read_url": null,
+      "type": "practical_conceptual_model",
+      "access": "original_author_article_full_html_available",
+      "read_sections": [
+        "The kernel of good strategy",
+        "Examples of bad strategy"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C08-POR",
+      "authors": "Michael E. Porter",
+      "year": 1996,
+      "title": "What Is Strategy?",
+      "url": "https://hbr.org/1996/11/what-is-strategy",
+      "read_url": null,
+      "type": "conceptual_practical_model",
+      "access": "original_article_text_available_sections_read",
+      "read_sections": [
+        "II",
+        "III",
+        "IV"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C08-MIN",
+      "authors": "Henry Mintzberg; James A. Waters",
+      "year": 1985,
+      "title": "Of Strategies, Deliberate and Emergent",
+      "url": "https://doi.org/10.1002/smj.4250060306",
+      "read_url": "https://www.creaciondeestrategia.com/wp-content/uploads/2022/02/Mintzberg-y-Waters_1985.pdf",
+      "type": "theory_conceptual_synthesis",
+      "access": "full_original_pdf_third_party_mirror",
+      "read_sections": [
+        "pp.257–258 introduction",
+        "pp.270–271 conclusion"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C08-SCE",
+      "authors": "Kathia Cordova-Pozo; Etiënne A. J. A. Rouwette",
+      "year": 2023,
+      "title": "Types of scenario planning and their effectiveness: A review of reviews",
+      "url": "https://doi.org/10.1016/j.futures.2023.103153",
+      "read_url": "https://www.researchgate.net/publication/369671404_Types_of_scenario_planning_and_their_effectiveness_A_review_of_reviews",
+      "type": "review_of_reviews",
+      "access": "full_original_text_available",
+      "read_sections": [
+        "3.8",
+        "3.9",
+        "3.10",
+        "Discussion"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C09-SIM",
+      "authors": "Herbert A. Simon",
+      "year": 1955,
+      "title": "A Behavioral Model of Rational Choice",
+      "url": "https://doi.org/10.2307/1884852",
+      "read_url": "https://cooperative-individualism.org/simon-herbert_a-behavioral-model-of-rational-choice-1955-feb.pdf",
+      "type": "formal_behavioral_theory",
+      "access": "full_original_pdf_mirror",
+      "read_sections": [
+        "Model setup",
+        "III Existence and Uniqueness of Solutions, pp.110–112"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C09-LER",
+      "authors": "Sophie Leroy",
+      "year": 2009,
+      "title": "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks",
+      "url": "https://doi.org/10.1016/j.obhdp.2009.04.002",
+      "read_url": "https://www.scribd.com/document/856551539/c-Coek-Info-Why-is-It-So-Hard-to-Do-My-Work-the-Challenge-of-a-1",
+      "type": "laboratory_experiments",
+      "access": "original_article_reproduction_ocr_third_party_plus_publisher_abstract",
+      "read_sections": [
+        "Study 1 design and participants, pp.171–173",
+        "Study 2 discussion",
+        "General discussion and limitations, pp.178–179"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C09-AEO",
+      "authors": "Brad Aeon; Aïda Faber; Alexandra Panaccio",
+      "year": 2021,
+      "title": "Does time management work? A meta-analysis",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245066",
+      "read_url": null,
+      "type": "meta_analysis_mixed_predominantly_cross_sectional",
+      "access": "publisher_open_full_text",
+      "read_sections": [
+        "Methods",
+        "Discussion",
+        "Limitations"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C10-GOA",
+      "authors": "Edwin A. Locke; Gary P. Latham",
+      "year": 2002,
+      "title": "Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey",
+      "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+      "read_url": "https://www.researchgate.net/publication/11152729_Building_a_practically_useful_theory_of_goal_setting_and_task_motivation_-_A_35-year_odyssey",
+      "type": "theory_and_author_research_synthesis",
+      "access": "author_uploaded_full_text_available",
+      "read_sections": [
+        "Core findings",
+        "Commitment and feedback",
+        "Task complexity, pp.706–710"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C10-HAR",
+      "authors": "Benjamin Harkin; Thomas L. Webb; Betty P. I. Chang; Andrew Prestwich; Mark Conner; Ian Kellar; Yael Benn; Paschal Sheeran",
+      "year": 2016,
+      "title": "Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence",
+      "url": "https://doi.org/10.1037/bul0000025",
+      "read_url": "https://eprints.whiterose.ac.uk/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf",
+      "type": "meta_analysis_randomized_interventions",
+      "access": "repository_accepted_manuscript_full_available_not_version_of_record",
+      "read_sections": [
+        "Inclusion criteria and methods, manuscript pp.18–20",
+        "Limitations, manuscript pp.38–40"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C10-BLO",
+      "authors": "Nicholas Bloom; Benn Eifert; Aprajit Mahajan; David McKenzie; John Roberts",
+      "year": 2013,
+      "title": "Does Management Matter? Evidence from India",
+      "url": "https://doi.org/10.1093/qje/qjs044",
+      "read_url": "https://gwern.net/doc/economics/2012-bloom.pdf",
+      "type": "field_randomized_package_experiment",
+      "access": "full_published_article_pdf_third_party_mirror_metadata_stanford_oup",
+      "read_sections": [
+        "Table I",
+        "III.A–E, pp.12–19",
+        "Introduction"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C11-WEI",
+      "authors": "Karl E. Weick; Kathleen M. Sutcliffe; David Obstfeld",
+      "year": 2005,
+      "title": "Organizing and the Process of Sensemaking",
+      "url": "https://doi.org/10.1287/orsc.1050.0133",
+      "read_url": "https://scispace.com/pdf/organizing-and-the-process-of-sensemaking-4qk2e6f9y9.pdf",
+      "type": "theory_conceptual_synthesis",
+      "access": "full_original_article_pdf_third_party_mirror",
+      "read_sections": [
+        "pp.409–413",
+        "Sensemaking/action/communication"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C11-COL",
+      "authors": "Jason A. Colquitt; Donald E. Conlon; Michael J. Wesson; Christopher O. L. H. Porter; K. Yee Ng",
+      "year": 2001,
+      "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "url": "https://doi.org/10.1037/0021-9010.86.3.425",
+      "read_url": "https://leeds-faculty.colorado.edu/dahe7472/Colquitt%202001.pdf",
+      "type": "meta_analysis",
+      "access": "full_original_pdf_university_host",
+      "read_sections": [
+        "Definitions p.427",
+        "Results/discussion pp.433–438",
+        "Limitations"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C11-MAY",
+      "authors": "Roger C. Mayer; James H. Davis; F. David Schoorman",
+      "year": 1995,
+      "title": "An Integrative Model of Organizational Trust",
+      "url": "https://doi.org/10.5465/amr.1995.9508080335",
+      "read_url": "https://www.makinggood.ac.nz/media/1270/mayeretal_1995_organizationaltrust.pdf",
+      "type": "theory",
+      "access": "full_original_pdf_mirror",
+      "read_sections": [
+        "The Factors of Trustworthiness pp.717–724",
+        "Risk taking and measurement pp.724–729"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C12-FRE",
+      "authors": "R. Edward Freeman; John McVea",
+      "year": 2001,
+      "title": "A Stakeholder Approach to Strategic Management",
+      "url": "https://doi.org/10.2139/ssrn.263511",
+      "read_url": "https://www.researchgate.net/publication/228320877_A_Stakeholder_Approach_to_Strategic_Management",
+      "type": "theoretical_author_account_working_paper",
+      "access": "full_author_uploaded_working_paper",
+      "read_sections": [
+        "Introduction and history",
+        "Distinctive characteristics of stakeholder approach",
+        "Conclusion"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C12-MIT",
+      "authors": "Ronald K. Mitchell; Bradley R. Agle; Donna J. Wood",
+      "year": 1997,
+      "title": "Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts",
+      "url": "https://doi.org/10.5465/amr.1997.9711022105",
+      "read_url": "https://www.researchgate.net/publication/247159142_Toward_a_Theory_of_Stakeholder_Identification_and_Salience_Defining_the_Principle_of_Who_and_What_Really_Counts",
+      "type": "theory_typology",
+      "access": "full_author_uploaded_article",
+      "read_sections": [
+        "pp.853–855",
+        "pp.865–870",
+        "pp.879–881"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C12-BOU",
+      "authors": "Ulrich Leicht-Deobald; Julia Backmann; Thomas A. de Vries; Matthias Weiss; Sebastian Hohmann; Frank Walter; Gerben S. van der Vegt; Martin Hoegl",
+      "year": 2025,
+      "title": "A Contingency Framework for the Performance Consequences of Team Boundary Management: A Meta-Analysis of 30 Years of Research",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/01492063231206107",
+      "read_url": null,
+      "type": "meta_analysis",
+      "access": "publisher_full_html",
+      "read_sections": [
+        "Framework and Table1",
+        "Methodological moderators",
+        "Discussion"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C13-KOT",
+      "authors": "Kotter (author's organization)",
+      "year": null,
+      "title": "The 8 Steps for Leading Change",
+      "url": "https://www.kotterinc.com/methodology/8-steps/",
+      "read_url": null,
+      "type": "commercial_practical_model",
+      "access": "full_primary_provider_webpage",
+      "read_sections": [
+        "Framework",
+        "All eight accelerator descriptions"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C13-APP",
+      "authors": "Steven H. Appelbaum; Sally Habashy; Jean-Luc Malo; Hisham Shafiq",
+      "year": 2012,
+      "title": "Back to the future: revisiting Kotter’s 1996 change model",
+      "url": "https://doi.org/10.1108/02621711211253231",
+      "read_url": "https://www.researchgate.net/publication/242339672_Back_to_the_future_Revisiting_Kotter's_1996_change_model",
+      "type": "critical_literature_review",
+      "access": "full_original_text",
+      "read_sections": [
+        "Limitations and conclusion pp.775–776"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C13-ORE",
+      "authors": "Shaul Oreg; Maria Vakola; Achilles Armenakis",
+      "year": 2011,
+      "title": "Change Recipients’ Reactions to Organizational Change: A 60-Year Review of Quantitative Studies",
+      "url": "https://doi.org/10.1177/0021886310396550",
+      "read_url": "https://bschool-en.huji.ac.il/sites/default/files/businesshe/files/oreg_vakola_armenakis_2011.pdf",
+      "type": "review_quantitative_studies",
+      "access": "full_original_pdf_author_institution",
+      "read_sections": [
+        "Model",
+        "Design tables",
+        "Discussion and limitations pp.513–514"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "C13-STO",
+      "authors": "Jeroen Stouten; Denise M. Rousseau; David De Cremer",
+      "year": 2018,
+      "title": "Successful Organizational Change: Integrating the Management Practice and Scholarly Literatures",
+      "url": "https://doi.org/10.5465/annals.2016.0095",
+      "read_url": "https://www.researchgate.net/publication/324850641_Successful_Organizational_Change_Integrating_the_Management_Practice_and_Scholarly_Literatures",
+      "type": "integrative_review_practical_synthesis",
+      "access": "full_author_uploaded_article",
+      "read_sections": [
+        "Introduction and model comparison",
+        "Urgency limitations",
+        "Diagnosis/readiness/interventions pp.772–774"
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S14-1",
+      "authors": "Amy Edmondson",
+      "year": 1999,
+      "title": "Psychological Safety and Learning Behavior in Work Teams",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf",
+      "type": "theory_and_empirical_field_study",
+      "access": "Full text available; only named sections read",
+      "read_sections": "pp. 350–357: abstract, construct definitions, model, hypotheses",
+      "confirmed_claims": [
+        "Shared team belief concerning interpersonal risk; distinct from cohesiveness/permissiveness.",
+        "51 teams in one manufacturing company; association with learning behavior."
+      ],
+      "limitations": [
+        "Observational, single-company study; no causal validation of one reply or AI protocol.",
+        "One episode cannot establish shared team climate."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S14-2",
+      "authors": "Frazier, Fainshmidt, Klinger, Pezeshkan & Vracheva",
+      "year": 2017,
+      "title": "Psychological Safety: A Meta-Analytic Review and Extension",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/peps.12183",
+      "type": "empirical_meta_analysis",
+      "access": "Abstract only, not full methodological verification",
+      "read_sections": "Publisher abstract",
+      "confirmed_claims": [
+        "136 independent samples; examines antecedents, outcomes, levels of analysis and moderators."
+      ],
+      "limitations": [
+        "Online 2016, issue 2017.",
+        "Complete coding/estimates not inspected; no evidence for proposed PROD."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S15-1",
+      "authors": "Chris Argyris",
+      "year": 1977,
+      "title": "Double Loop Learning in Organizations",
+      "url": "https://www.avannistelrooij.nl/wp/wp-content/uploads/2017/11/Argyris-1977-Double-Loop-Learning-in-Organisations-HBR.pdf",
+      "type": "theory_and_practical_conceptual_model",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Indexed original How Organizations Learn, p.116",
+      "confirmed_claims": [
+        "Single-loop corrects actions within goals; double-loop questions underlying goals/policies."
+      ],
+      "limitations": [
+        "Direct PDF open failed; original indexed fragment and publisher description read.",
+        "Not a reading of the 1978 book; worksheet efficacy not demonstrated."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S15-2",
+      "authors": "Nathanael L. Keiser & Winfred Arthur Jr.",
+      "year": 2021,
+      "title": "A meta-analysis of the effectiveness of the after-action review (or debrief) and factors that influence its effectiveness",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32852990/",
+      "type": "empirical_meta_analysis",
+      "access": "Abstract only, not full methodological verification",
+      "read_sections": "Complete indexed abstract",
+      "confirmed_claims": [
+        "61 studies; effects vary with individual/team alignment and objective review media.",
+        "Structure/facilitation features interact; maximum structure not universally best."
+      ],
+      "limitations": [
+        "Online 2020, issue 2021.",
+        "Methods/tables not read; AAR is not every form of reflection.",
+        "Human training effects do not validate AI adaptation."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S15-3",
+      "authors": "Kevin M. Roessger",
+      "year": 2014,
+      "title": "The effect of reflective activities on instrumental learning in adult work-related education: A critical review of the empirical research",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1747938X14000165",
+      "type": "empirical_review",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Abstract; Empirical effects; Summary, implications, and discussions",
+      "confirmed_claims": [
+        "Review concerns structured reflective activities in adult instrumental learning.",
+        "Few sufficiently controlled studies; limited/mixed evidence."
+      ],
+      "limitations": [
+        "Not restricted to unstructured reflection.",
+        "Not proof that all reflection is ineffective or our journal is better."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S16-1",
+      "authors": "Michael E. Brown, Linda K. Treviño & David A. Harrison",
+      "year": 2005,
+      "title": "Ethical leadership: A social learning perspective for construct development and testing",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749597805000397",
+      "type": "theory_and_empirical_construct_validation",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Abstract; Ethical leadership as social learning; A constitutive definition; Perceptual biases",
+      "confirmed_claims": [
+        "Construct combines role modeling with communication, reinforcement and decision-making.",
+        "Seven interlocking construct studies; some single-source relationships may have common-method bias."
+      ],
+      "limitations": [
+        "Construct validity is not normative correctness of a decision.",
+        "No test of proposed checklist."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S16-2",
+      "authors": "Akanksha Bedi, Can M. Alpaslan & Sandy Green",
+      "year": 2016,
+      "title": "A Meta-analytic Review of Ethical Leadership Outcomes and Moderators",
+      "url": "https://link.springer.com/article/10.1007/s10551-015-2625-1",
+      "type": "empirical_meta_analysis",
+      "access": "Abstract only, not full methodological verification",
+      "read_sections": "Publisher abstract",
+      "confirmed_claims": [
+        "Follower perceptions of ethical leadership associated with several follower outcomes; contextual moderators reported."
+      ],
+      "limitations": [
+        "Online 2015, issue 2016.",
+        "Full methods not checked this iteration; association does not establish moral correctness or product causality."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S16-3",
+      "authors": "Thomas M. Jones",
+      "year": 1991,
+      "title": "Ethical Decision Making by Individuals in Organizations: An Issue-Contingent Model",
+      "url": "https://doi.org/10.5465/AMR.1991.4278958",
+      "type": "theory",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Original OCR copy: Moral intensity; Components of moral intensity, pp.372–378; https://www.scribd.com/document/521666975/Ethical-Prakar",
+      "confirmed_claims": [
+        "Six proposed components: magnitude, social consensus, probability, temporal immediacy, proximity, concentration.",
+        "Original article says component relationships/weights require future empirical determination."
+      ],
+      "limitations": [
+        "OCR copy on third-party host, not publisher full text.",
+        "Not a validated moral score; consensus/proximity does not determine permissible harm or rights."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S16-4",
+      "authors": "R. Edward Freeman",
+      "year": 1984,
+      "title": "Strategic Management: A Stakeholder Approach",
+      "url": "https://studylib.net/doc/28274244/freeman-1984-key-chapters",
+      "type": "theory_and_practical_model",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Original OCR chapters: preface; Chapter 3 opening pp.52–54 and summary p.80",
+      "confirmed_claims": [
+        "Includes parties affecting or affected by organizational purpose.",
+        "Stakeholder maps, processes and transactions should be coherent."
+      ],
+      "limitations": [
+        "Selected fragments only; not complete book.",
+        "Strategic framework with normative elements, not empirically established equal weighting.",
+        "Mirror OCR quality limits exact attribution."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S17-1",
+      "authors": "Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng",
+      "year": 2001,
+      "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "url": "https://leeds-faculty.colorado.edu/dahe7472/Colquitt%202001.pdf",
+      "type": "theoretical_distinctions_and_empirical_meta_analysis",
+      "access": "Full text available; only named sections read",
+      "read_sections": "pp.425–428: definitions and construct discrimination",
+      "confirmed_claims": [
+        "183 studies; distributive, procedural, interpersonal and informational dimensions are related but distinguishable.",
+        "Organizational justice concerns perceived fairness and correlates.",
+        "Voice/process control is one aspect of procedure."
+      ],
+      "limitations": [
+        "Not the separate sole-author Colquitt scale-development paper.",
+        "Not a universal moral verdict or validated product checklist.",
+        "Equal allocation is not always the chosen fairness principle."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S17-2",
+      "authors": "Xiaoyu Li, Chu-Ding Ling & Jinlong Zhu",
+      "year": 2025,
+      "title": "Implications of inclusive leadership for individual employee outcomes: A meta-analytic investigation of the mediating mechanisms and boundary conditions",
+      "url": "https://link.springer.com/article/10.1007/s10490-024-09987-9",
+      "type": "empirical_meta_analysis",
+      "access": "Abstract only, not full methodological verification",
+      "read_sections": "Publisher abstract",
+      "confirmed_claims": [
+        "105 independent samples, N=39948; relationships with employee outcomes including voice.",
+        "Multiple statistical mediators examined, not only psychological safety."
+      ],
+      "limitations": [
+        "Online 2024, issue 2025.",
+        "Full methods/scales not read; exact prevalence of cross-sectional/self-report designs not verified.",
+        "Statistical mediation is not causal identification; proposed practice not tested."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S18-1",
+      "authors": "Frederick P. Morgeson, D. Scott DeRue & Elizabeth P. Karam",
+      "year": 2010,
+      "title": "Leadership in Teams: A Functional Approach to Understanding Leadership Structures and Processes",
+      "url": "https://www.morgeson.com/downloads/morgeson_derue_karam_2010.pdf",
+      "type": "theory_and_integrative_review",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Indexed original abstract; Define mission p.13",
+      "confirmed_claims": [
+        "Organizes leadership around team needs/functions and sources inside/outside team.",
+        "Shared mission and comprehensible expectations are a leadership function."
+      ],
+      "limitations": [
+        "Online 2009, issue 2010; direct PDF open failed.",
+        "Erratum https://journals.sagepub.com/doi/10.1177/0149206310363277 exists but correction text unavailable; full exact 15-function taxonomy not verified.",
+        "No experiment proving best role allocation or RACI."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S18-2",
+      "authors": "Greg L. Stewart",
+      "year": 2006,
+      "title": "A Meta-Analytic Review of Relationships Between Team Design Features and Team Performance",
+      "url": "https://journals.sagepub.com/doi/10.1177/0149206305277792",
+      "type": "empirical_meta_analysis",
+      "access": "Abstract only, not full methodological verification",
+      "read_sections": "Publisher abstract",
+      "confirmed_claims": [
+        "93 studies; autonomy/intrateam-coordination relationships with performance vary by task type."
+      ],
+      "limitations": [
+        "Full methods not read.",
+        "No universal maximization of autonomy/team size or causal validation of proposed redesign."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S18-3",
+      "authors": "Ulrich Leicht-Deobald, Julia Backmann, Thomas A. de Vries, Matthias Weiss, Sebastian Hohmann, Frank Walter, Gerben S. van der Vegt & Martin Hoegl",
+      "year": 2025,
+      "title": "A Contingency Framework for the Performance Consequences of Team Boundary Management: A Meta-Analysis of 30 Years of Research",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/01492063231206107",
+      "type": "empirical_meta_analysis",
+      "access": "Full text available; only named sections read",
+      "read_sections": "Abstract; practical implications; limitations",
+      "confirmed_claims": [
+        "Relationships depend on boundary activities, actors and targets.",
+        "Extraorganizational-target evidence does not cover production-planning teams."
+      ],
+      "limitations": [
+        "Online 2023, issue 2025.",
+        "Observational associations do not guarantee gains from more contacts.",
+        "Product implementation requires authority, confidentiality and resource-cost checks."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S19-1",
+      "authors": "James J. Gross",
+      "year": 1998,
+      "title": "The Emerging Field of Emotion Regulation: An Integrative Review",
+      "url": "https://emotion.wisc.edu/wp-content/uploads/sites/1353/2021/11/Gross-1998-The-Emerging-Field-of-Emotion-Regulation-An-Integrative-Review.pdf",
+      "type": "theory_and_integrative_review",
+      "access": "Original author fragments/preview/indexed text read",
+      "read_sections": "Indexed original p.271 abstract/introduction",
+      "confirmed_claims": [
+        "Five points: situation selection/modification, attention deployment, cognitive change, response modulation."
+      ],
+      "limitations": [
+        "Full original not read.",
+        "Taxonomy does not establish one best strategy or pause efficacy."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S19-2",
+      "authors": "James J. Gross",
+      "year": 2015,
+      "title": "Emotion Regulation: Current Status and Future Prospects",
+      "url": "https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf",
+      "type": "theory_and_review",
+      "access": "Full text available; only named sections read",
+      "read_sections": "Extended process model; identification/selection/implementation pp.11–16",
+      "confirmed_claims": [
+        "Need identification, strategy selection and tactic implementation are distinct.",
+        "Ongoing context-sensitive evaluation matters."
+      ],
+      "limitations": [
+        "Not a validated mandatory linear product protocol.",
+        "Do not transfer clinical uses or make suppression mandatory."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S19-3",
+      "authors": "Arnold B. Bakker, Evangelia Demerouti & Ana Sanz-Vergel",
+      "year": 2023,
+      "title": "Job Demands–Resources Theory: Ten Years Later",
+      "url": "https://ueaeprints.uea.ac.uk/id/eprint/89912/7/annurev_orgpsych_120920_053933.pdf",
+      "type": "theory_and_empirical_review",
+      "access": "Full text available; only named sections read",
+      "read_sections": "Situational factors pp.27–29; common problems/Table2 and practical implications pp.41–43",
+      "confirmed_claims": [
+        "Demands and resources distinct; absence of demand not automatically a resource.",
+        "Individual, team and organizational levels considered."
+      ],
+      "limitations": [
+        "Not medical diagnosis or burnout risk scoring.",
+        "Recommendations do not validate proposed weekly exercise.",
+        "Local redesign requires context and authority."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S19-4",
+      "authors": "Brett S. Torrence & Shane Connelly",
+      "year": 2019,
+      "title": "Emotion Regulation Tendencies and Leadership Performance: An Examination of Cognitive and Behavioral Regulation Strategies",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6614202/",
+      "type": "empirical_correlational_study",
+      "access": "Full text available; only named sections read",
+      "read_sections": "Abstract; participants/procedure; discussion/limitations",
+      "confirmed_claims": [
+        "226 undergraduates recruited; final N=196, mean age18.8; hypothetical leadership scenarios.",
+        "Partial associations of habitual emotion-regulation tendencies and rated scenario responses."
+      ],
+      "limitations": [
+        "Not a field study of practicing leaders.",
+        "No intervention assignment demonstrating strategy-training effects.",
+        "Low reliability of situation-modification scale.",
+        "Leader transfer indirect; AI guidance untested."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    },
+    {
+      "id": "S19-5",
+      "authors": "Mustapha Nadifi, Amine Zenjari & Adil Cherkaoui",
+      "year": 2026,
+      "title": "Emotion Regulation in Leadership: A Systematic Review of Strategies, Styles, and Outcomes (2013–2023)",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/21582440261467455",
+      "type": "systematic_empirical_review",
+      "access": "Full text available; only named sections read",
+      "read_sections": "Research scope; discussion; limitations",
+      "confirmed_claims": [
+        "Maps ER/leadership relationships during2013–2023.",
+        "Authors explicitly report predominance of cross-sectional self-report designs."
+      ],
+      "limitations": [
+        "Not an intervention-effectiveness meta-analysis.",
+        "Context/geography constrain generalization; no particular PROD strategy proven."
+      ],
+      "review_date": "2026-10-06",
+      "status": "checked_for_bounded_claim_in_prior_source_review",
+      "ai_intervention_validated": false
+    }
+  ],
+  "candidates": [
+    {
+      "id": "C01-VY",
+      "authors": "V. H. Vroom; P. W. Yetton",
+      "year": 1973,
+      "title": "Leadership and Decision-Making",
+      "url": "https://www.jstor.org/stable/j.ctt6wrc8r",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C01-JEV",
+      "authors": "A. G. Jago; J. E. Ettling; V. H. Vroom",
+      "year": 1985,
+      "title": "Validation of a Decision-Process Model of Leadership: A Laboratory Study",
+      "url": "https://doi.org/10.5465/ambpp.1985.4979056",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Check exact title and tested model version; do not transfer validation of a revised model to the 1973 decision tree without evidence."
+    },
+    {
+      "id": "C01-RPD93",
+      "authors": "G. A. Klein",
+      "year": 1993,
+      "title": "A Recognition-Primed Decision (RPD) Model of Rapid Decision Making",
+      "url": "https://www.gary-klein.com/rpd",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C02-JCM",
+      "authors": "J. R. Hackman; G. R. Oldham",
+      "year": 1976,
+      "title": "Motivation through the Design of Work: Test of a Theory",
+      "url": "https://doi.org/10.1016/0030-5073(76)90016-7",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C02-HB69",
+      "authors": "P. Hersey; K. H. Blanchard",
+      "year": 1969,
+      "title": "Managing Research and Development Personnel: An Application of Leadership Theory",
+      "url": "https://doi.org/10.1080/00345334.1969.11755973",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Confirm historical publication identity; do not equate this DOI with the separate Life Cycle Theory of Leadership publication."
+    },
+    {
+      "id": "C02-GOODSON",
+      "authors": "J. R. Goodson; G. W. McGee; J. F. Cashman",
+      "year": 1989,
+      "title": "Situational Leadership Theory: A Test of Leadership Prescriptions",
+      "url": "https://doi.org/10.1177/105960118901400406",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read methods and distinguish tested versions, observational fit and provider involvement; do not merge them into a causal universal SLII matching claim."
+    },
+    {
+      "id": "C02-TV",
+      "authors": "G. Thompson; R. P. Vecchio",
+      "year": 2009,
+      "title": "Situational Leadership Theory: A Test of Three Versions",
+      "url": "https://doi.org/10.1016/j.leaqua.2009.06.014",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read methods and distinguish tested versions, observational fit and provider involvement; do not merge them into a causal universal SLII matching claim."
+    },
+    {
+      "id": "C02-TG",
+      "authors": "G. Thompson; L. Glasø",
+      "year": 2018,
+      "title": "Situational Leadership Theory: A Test from a Leader–Follower Congruence Approach",
+      "url": "https://doi.org/10.1108/LODJ-01-2018-0050",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read methods and distinguish tested versions, observational fit and provider involvement; do not merge them into a causal universal SLII matching claim."
+    },
+    {
+      "id": "C02-ZR",
+      "authors": "D. Zigarmi; T. P. Roberts",
+      "year": 2017,
+      "title": "A Test of Three Basic Assumptions of Situational Leadership® II Model and Their Implications for HRD Practitioners",
+      "url": "https://doi.org/10.1108/EJTD-05-2016-0035",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read methods and distinguish tested versions, observational fit and provider involvement; do not merge them into a causal universal SLII matching claim."
+    },
+    {
+      "id": "C03-LL02",
+      "authors": "E. A. Locke; G. P. Latham",
+      "year": 2002,
+      "title": "Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey",
+      "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C03-MSK",
+      "authors": "A. J. Mento; R. P. Steel; R. J. Karren",
+      "year": 1987,
+      "title": "A Meta-Analytic Study of the Effects of Goal Setting on Task Performance: 1966–1984",
+      "url": "https://doi.org/10.1016/0749-5978(87)90045-8",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C04-FIT96",
+      "authors": "A. N. Kluger; A. DeNisi",
+      "year": 1996,
+      "title": "The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory",
+      "url": "https://doi.org/10.1037/0033-2909.119.2.254",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C05-JUSTICE",
+      "authors": "J. A. Colquitt; D. E. Conlon; M. J. Wesson; C. O. L. H. Porter; K. Y. Ng",
+      "year": 2001,
+      "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "url": "https://doi.org/10.1037/0021-9010.86.3.425",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C05-SMITH",
+      "authors": "Smith; Addicott; Slaski",
+      "year": 2025,
+      "title": "Difficult conversations: scoping review (exact title unverified)",
+      "url": "https://doi.org/10.53841/bpsopo.2025.4.1.55",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C06-JEHN",
+      "authors": "K. A. Jehn",
+      "year": 1995,
+      "title": "A Multimethod Examination of the Benefits and Detriments of Intragroup Conflict",
+      "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Negotiation_and_Conflict_Management/Jehn-ASQ-1995.pdf",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C06-DDW",
+      "authors": "C. K. W. De Dreu; L. R. Weingart",
+      "year": 2003,
+      "title": "Task versus Relationship Conflict, Team Performance, and Team Member Satisfaction: A Meta-Analysis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12940412/",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C06-BE",
+      "authors": "K. Bollen; M. C. Euwema",
+      "year": 2013,
+      "title": "Workplace Mediation: An Underdeveloped Research Area",
+      "url": "https://doi.org/10.1111/nejo.12028",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C07-BF",
+      "authors": "T. T. Baldwin; J. K. Ford",
+      "year": 1988,
+      "title": "Transfer of Training: A Review and Directions for Future Research",
+      "url": "https://doi.org/10.1111/j.1744-6570.1988.tb00632.x",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "C07-KA",
+      "authors": "N. L. Keiser; W. Arthur Jr.",
+      "year": 2021,
+      "title": "A Meta-Analysis of the Effectiveness of the After-Action Review (or Debrief) and Factors That Influence Its Effectiveness",
+      "url": "https://doi.org/10.1037/apl0000821",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "BOOK-RUM2011",
+      "authors": "Richard Rumelt",
+      "year": 2011,
+      "title": "Good Strategy Bad Strategy",
+      "url": "https://www.penguinrandomhouse.com/books/208668/good-strategy-bad-strategy-by-richard-rumelt/",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "BOOK-WEI1995",
+      "authors": "Karl E. Weick",
+      "year": 1995,
+      "title": "Sensemaking in Organizations",
+      "url": "https://us.sagepub.com/en-us/nam/book/sensemaking-organizations",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "BOOK-FRE1984",
+      "authors": "R. Edward Freeman",
+      "year": 1984,
+      "title": "Strategic Management: A Stakeholder Approach",
+      "url": "https://www.cambridge.org/core/books/strategic-management/E3CC2E2CE01497062D7603B7A8B9337F",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "BOOK-KOT1996",
+      "authors": "John P. Kotter",
+      "year": 1996,
+      "title": "Leading Change",
+      "url": null,
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "KOT1995",
+      "authors": "John P. Kotter",
+      "year": 1995,
+      "title": "Leading Change: Why Transformation Efforts Fail",
+      "url": "https://hbr.org/1995/03/leading-change-why-transformation-efforts-fail-2",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "BOOK-LOC1990",
+      "authors": "Edwin A. Locke; Gary P. Latham",
+      "year": 1990,
+      "title": "A Theory of Goal Setting and Task Performance",
+      "url": null,
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "MILLER1994",
+      "authors": "C. Chet Miller; Laura B. Cardinal",
+      "year": 1994,
+      "title": "Strategic Planning and Firm Performance: A Synthesis of More than Two Decades of Research",
+      "url": "https://doi.org/10.2307/256804",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "DELIMA2026",
+      "authors": "Anderson Antônio De Lima; Júlio Araújo Carneiro Da Cunha; Thiago de Luca Santana Ribeiro",
+      "year": 2026,
+      "title": "Turning relationships into returns: mechanisms, stages and evidence on stakeholder engagement as competitive advantage",
+      "url": "https://doi.org/10.1108/MD-03-2026-0778",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "K15-1",
+      "authors": "Chris Argyris & Donald A. Schön",
+      "year": 1978,
+      "title": "Organizational Learning: A Theory of Action Perspective",
+      "url": "https://books.google.com/books/about/Organizational_Learning.html?id=saMoAQAAMAAJ",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "K15-2",
+      "authors": "Donald A. Schön",
+      "year": 1983,
+      "title": "The Reflective Practitioner: How Professionals Think in Action",
+      "url": "https://books.google.com/books?id=oYNHAAAAMAAJ",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    },
+    {
+      "id": "K18-1",
+      "authors": "J. Richard Hackman",
+      "year": 2002,
+      "title": "Leading Teams: Setting the Stage for Great Performances",
+      "url": "https://store.hbr.org/product/leading-teams-setting-the-stage-for-great-performances/3332",
+      "status": "candidate_requiring_claim_and_version_check",
+      "next_check": "Read the relevant original passage and confirm exact version before substantive attribution. A verified excerpt or related paper does not establish that the full book or original study was read."
+    }
+  ]
+}
