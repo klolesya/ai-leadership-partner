@@ -1,27 +1,26 @@
 # AI Leadership Partner
 
-**First public experimental release · v0.11.0-rc3**
-
 **Your situation first. The theory that fits.**
 
-An AI skill for managers to work through a real challenge, investigate what is getting in the way and choose a practical next step.
+Work through a difficult management situation with an AI thinking partner: understand what is getting in the way, explore approaches that fit your context, and turn the discussion into a practical next step.
 
 Use it when a project keeps stalling, delegation is not working, priorities compete, a conversation feels difficult—or you want to develop a leadership skill through your current work.
 
 <img src="assets/cards/01.png" alt="AI Leadership Partner. Your situation first. The theory that fits." width="420">
 
-[Read the six-card overview](assets/ai-leadership-partner-overview.pdf).
-
-<details>
-<summary>View the other five cards</summary>
-
 <img src="assets/cards/02.png" alt="When it helps: bring a challenge from your current work." width="420">
+
 <img src="assets/cards/03.png" alt="How it works: investigate the situation, then choose the support." width="420">
+
 <img src="assets/cards/04.png" alt="Guiding principles: a humanistic approach and openness to knowledge. Care is compatible with high expectations, honest feedback and difficult decisions." width="420">
+
 <img src="assets/cards/05.png" alt="Practical outputs: plans, agreements, experiments and optional focused practice." width="420">
+
 <img src="assets/cards/06.png" alt="The 19 leadership areas, listed below in What you can work on." width="420">
 
-</details>
+[Download the cards as a PDF](assets/ai-leadership-partner-overview.pdf).
+
+**First public experimental release · v0.11.0-rc3**
 
 ## How it works
 
