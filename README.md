@@ -2,8 +2,6 @@
 
 **First public experimental release · v0.11.0-rc3**
 
-Supports conversations in English and Russian.
-
 **Your situation first. The theory that fits.**
 
 An AI skill for managers to work through a real challenge, investigate what is getting in the way and choose a practical next step.
@@ -64,7 +62,7 @@ These are routes to relevant questions and tools, not labels or ratings of a per
 
 1. Download or clone this repository and inspect the complete [skill folder](skills/leadership-partner/SKILL.md).
 2. Copy the entire `skills/leadership-partner` folder—not only `SKILL.md`—into your project's `.agents/skills/` directory.
-3. Start a new chat in that project and explicitly invoke `$leadership-partner`. Ask for English or Russian, or write in your preferred language.
+3. Start a new chat in that project and explicitly invoke `$leadership-partner`.
 
 For example:
 
@@ -80,7 +78,7 @@ External research requires an available, permitted browsing tool and internet ac
 
 ## Testing so far
 
-The creator has personally tried the skill in **15 management situations**. Separately, automated scenario testing produced **254 recorded model responses across three development revisions**, using scenarios in English and Russian.
+The creator has personally tried the skill in **15 management situations**. Separately, automated scenario testing produced **254 recorded model responses across three development revisions**.
 
 The personal trials are reported by the creator. Automated responses are not separate human users or 254 complete tests of the final revision. The final revision received targeted checks after fixes. See [testing details](VALIDATION.md) for the breakdown and limits.
 

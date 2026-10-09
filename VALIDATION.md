@@ -1,6 +1,6 @@
 # Testing notes
 
-**Published package: v0.11.0-rc3 · Russian and English**
+**Published package: v0.11.0-rc3**
 
 ## Personal use by the creator
 
